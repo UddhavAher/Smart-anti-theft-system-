@@ -1,4 +1,9 @@
+
+https://github.com/user-attachments/assets/8bbe8676-7bb4-4869-a92b-a1d8d2b90779
 # Smart-anti-theft-system #
+
+
+
 
 Project Title: Smart Anti-Theft System (SATS)
 
@@ -7,6 +12,8 @@ Description:
 SATS is an innovative IoT-based security system designed to protect assets from theft and unauthorized access. This system utilizes sensors, microcontrollers, and mobile technology to detect and prevent theft in real-time.
 
 Key Features:
+
+
 
 1. Motion Detection: Advanced sensors detect movement and trigger alerts to the owner's mobile device.
 2. GPS Tracking: Locate your assets on a map in real-time.
@@ -26,3 +33,6 @@ Software Requirements:
 
 - Programming languages: C++, Python, or JavaScript
 - Mobile app development (optional)
+
+Video:
+Uploading simulation video (2).mp4…

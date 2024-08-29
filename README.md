@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/8bbe8676-7bb4-4869-a92b-a1d8d2b90779
 # Smart-anti-theft-system #
 
 
@@ -34,5 +33,7 @@ Software Requirements:
 - Programming languages: C++, Python, or JavaScript
 - Mobile app development (optional)
 
-Video:
-Uploading simulation video (2).mp4…
+- 
+https://github.com/user-attachments/assets/8bbe8676-7bb4-4869-a92b-a1d8d2b90779
+
+

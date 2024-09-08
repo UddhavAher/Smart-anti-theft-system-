@@ -33,7 +33,7 @@ Software Requirements:
 - Programming languages: C++, Python, or JavaScript
 - Mobile app development (optional)
 
-- 
+
 https://github.com/user-attachments/assets/8bbe8676-7bb4-4869-a92b-a1d8d2b90779
 
 
